@@ -1,4 +1,4 @@
-## Hi there, my name is Ivan. I learn Java 👋
+## Hi there, my name is Ivan. I learn Java at [Job4j](https://job4j.ru/)👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalininIvan1990&show_icons=true&theme=radical)
 
@@ -7,7 +7,7 @@
 
 Categories: 
 -
-[Java 8](https://github.com/kalininIvan1990/job4j_tracker)
+[Java](https://github.com/kalininIvan1990/job4j_tracker)
 
 
 
